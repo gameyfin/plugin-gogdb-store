@@ -1,4 +1,4 @@
-Plugin-Version: 1.0.0
+Plugin-Version: 1.0.1
 Plugin-Class: org.gameyfin.plugins.store.gogdb.GogDbPlugin
 Plugin-Id: org.gameyfin.plugins.store.gogdb
 Plugin-Name: GOG Builds (GOGDB)
@@ -8,4 +8,5 @@ Plugin-Description: Tracks the build history of GOG products and suggests their 
 Plugin-Short-Description: GOG builds and editions via gogdb.org
 Plugin-Author: grimsi
 Plugin-License: MIT
-Plugin-Url: https://github.com/gameyfin
+Plugin-Url: https://github.com/gameyfin/plugin-gogdb-store
+Plugin-Requires: >=2.7.0
